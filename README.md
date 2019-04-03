@@ -12,4 +12,4 @@ Thank you to the following projects for the awesome tools used to build this sit
 * [Webpack](<https://webpack.js.org/>) asset pipeline
 * [PostCSS](<https://postcss.org/>) JavaScript CSS transform tool
 * [Babel](<https://babeljs.io/>) JavaScript compiler
-* [RenovateBot](<https://renovatebot.com/>) RenovateBot automated dependency updates
+* [RenovateBot](<https://renovatebot.com/>) automated dependency updates
