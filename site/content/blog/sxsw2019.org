@@ -1,0 +1,588 @@
+﻿#+TITLE: SXSW 2019 Selected Raw Notes
+#+AUTHOR: Robb Romans
+#+DATE: 2019-04-05
+#+DRAFT: false
+#+TAGS: sxsw, tech, future tech, content, leadership, vision
+
+* SXSW 2019 Selected Raw Notes
+
+* 20190308
+** Rohit Bhargava
+More noise today
+Harder to establish trust
+
+Non-obvious thinking
+Haystack method
+- Curating your ideas
+- Think if ideas like frequent flyer miles
+- Use colored tabs to save interesting ideas in your books
+- Physically collecting media and organizing it
+
+Non-obvious 2019
+ Curated observation of the accelerated present
+
+*** Retro trust
+- Look back to brands we used to know
+- Deliberate downgrading
+- Nostalgia
+- Collaborating with trusted brands or images
+
+*** Muddled masculinity
+- Widespread confusion and angst
+- Fear of being labeled
+- “Today’s masculinity is stifling” The Atlantic
+- Encourage the non-conforming
+
+*** Innovation Envy
+- FOMO Me-too fake innovation. Such as:
+- Ping-pong tables and open plan seating
+- Hackathons
+- Play offense with innovation
+- There ain’t no case study for innovation
+- “This is innovative but not risky”
+- The opposite of love is indifference
+
+*** Artificial Influence
+- Large amounts of fakery
+- Virtual influencers
+- Don’t hide the artificial ingredients
+
+*** Enterprise Empathy
+- A driver of innovation and revenue
+- Quiet hour
+- Slow checkout lane
+- Raised marks on shampoo and conditioner bottles
+- Holographic companions
+- “Made with empathy” as a strategy
+
+*** Robot Renaissance
+- Builders and explorers
+- Humanoid
+- What are good robots?
+- How should we relate to them?
+- Embracing robots with curiosity and not concern
+
+*** Back-story telling
+- Branded content is a waste of time
+- See Weber Grills - great content marketing
+- Guide, checklist, hand to dealer
+- They didn’t try to sell, they answered the right question
+- Hutzler 571 banana slicer - check out the reviews
+- It’s a competition
+- Find the meaning and you can tell the story
+
+
+I am not a speed reader; I am a speed understander - Isaac Asimov
+
+
+Trends are not a fire, but a spark.
+
+Where do you start?
+- See SXSW card
+- rohitbhargava.com/sxsw
+
+* 20190309
+** No Hard Feelings: Emotions at Work
+"No Hard Feelings" book
+Liz Fisslien, Mollie West Duffy
+@lisandmollie
+
+There are no scripts for common interactions at work
+
+The circle of office life
+"let's take this offline"
+"let's talk about it in the meeting"
+
+Effectively harnessing emotion
+- Look for unwritten rules about how authentic to be within a formal
+  setting
+- Emotions are inevitable - learn how to deal with them
+
+Emotional culture
+- look for signs on the wall admonishing
+- photos of home life
+- signs of pride
+- Interview question: "Tell me a story about something that would only
+  happen here"
+
+Belonging
+- Diversity is having a seat at the table
+- inclusion is having a voice
+- belonging is having that voice be heard
+
+Micro actions for belonging
+- pronounce and spell names correctly
+- once a month, grab coffee or lunch with someone new
+- when someone joins a conversation, take a moment to bring them up to
+  speed
+- if you notice someone get cut off mid sentence, take a moment to
+  jump in and ask them to continue sharing their thoughts.
+
+What can organizations do?
+
+Transition moments. On-boarding.
+- begin on-boarding before start date
+- assign a culture buddy
+- conduct an "enterview" Have everyone who interviewed them write
+  down - what they were impressed about, the key skills, what they
+  most want to know about them. Put these on post-it notes on the new
+  hire's desk
+- Have managers share ups and downs
+
+Meetings and teams
+- appoint a meeting monitor (looking at participation, engagement)
+- who needed to be in the room
+- send out an agenda ahead of the meeting
+- host a bad ideas brainstorm (15 minutes)
+- try opt-in "pair calls" 1 hour to only talk about not work
+
+
+Watch out for what you're sacrificing for your job
+Protecting your health and friendships - this helps your effectiveness
+You life must be sustainable
+"I'll be happy when I get _____" - opposite is true being happy gets
+you rewarded
+
+Avoiding burnout
+- see every experience as a learning opportunity
+- find the moments during the day that bring you join
+- try to shift your role to do more of those joyful things
+- freedom and autonomy bring happiness
+- finding your own way to effective solutions to business problems
+- as a manager - hold a weekly office hours for any conversations
+
+Emotions in decision making
+- there's a science to listening to your gut
+- not all feelings are useful
+- your envy can reveal what you truly value
+
+Ask question to determine others real intent
+Walk away when needed
+
+** Grit
+@AnnRHiatt
+
+Amazon, Google
+Redmond
+She was XO to Jeff Bezos
+
+12 years at Google
+XO to Eric Schmidt
+
+Do more with less. Balance.
+Where you spend your time and where your values are.
+
+See Grit TED Talk by Angela Lee
+may be inverse to intelligence
+marathonning
+
+This was a key to success for her.
+Taught her to value a learning mindset versus a performance mindset
+
+"I heard you're really good under pressure"
+
+Three steps you can take
+
+*** Find your passion and purpose
+Internal-facing passion
+- This is what gives a spring to your step
+- Changes sometimes
+Externally-facing purpose
+- longer-term
+
+*** Managing through change
+- monitor for frustration and burn out
+- you
+- your team
+- your support network
+
+She made a spreadsheet
+Column A her tasks and responsibilities
+Column B was the things she really like to do
+Column C how to springboard from those to ideal future
+
+Bring your teams along with you
+Communicate the what and the why
+- cycling analogy - when you know the finish line you can work harder
+
+Your friend network
+- communicate your goals with them
+
+*** Institutionalizing grit
+- how do you organize your team to do this
+- incentivize this
+- OKR (John Dorr book) (moon shots - aim high - you won't make all of them)
+- trust
+- authenticity, open discussion
+- safe to fail
+- hire people who aim higher
+- team aimed at the same star
+
+*** Reinvention
+- Book: Art and Fear. Learning mind set did better.
+- avoid perfectionist paralysis.
+- put in the reps. wake up, kick ass, repeat.
+- dedicate time to analyze your failures (and your big successes)
+- Jeff would lock himself in a hotel room for a week with no stimulus
+  and write in a notebook.
+- being comfortable with uncomfortable. she sold everything and moved
+  to Spain.
+- Erik Schmidt: "when possible, say yes" Expand your circle of
+  influence - add experts - and learn.
+
+*** Pivoting
+- habits to be made
+- Pareto principle (apply this to your TODO list)
+- Eat that frog on the 20%
+- be thoughtful
+- changing your priorities may upset some people. focus on what is
+  truly important and delegate or drop the rest.
+
+Biggest contributor to happiness at work is a feeling of control.
+Time box your calendar. Take those 20% tasks and lock them into your
+calendar for a couple hours. Set a hard start and stop.
+
+Delegate more. Focus on the biggest deliverable. Help your direct
+reports do this also.
+
+Read "Time for Happiness" - HBR
+
+Reward your employees with time if you can.
+There's nothing to celebrate in useless toil.
+
+Productivity isn't a virtue. Creativity, Generosity.
+* 20190311
+** Engineering a team for high growth
+Panelists: Yahoo, StitchFix, Slack, WeWork
+
+First, must build trust
+
+How do you prepare for change?
+- must constantly adapt your role as needed
+- at the beginning of growth, hire generalists
+- as you scale, hire more specialists
+- find leaders with domain experience
+- expect difficulty
+- hire people that can handle that amount of change
+
+If you're doing the same thing you did last year, you're not being
+successful
+
+face to face travel is critical to building emotional trust and
+effective relationships - builds team capability.
+
+remote-friendly culture - Dave Coupland talked about how to be a good
+remote engineer. Assume positive intent. Ask questions.
+
+Maintaining culture as you scale
+- knowing your values
+- have relevant questions and interview for them
+- create reward systems for those values
+- evolve as you grow
+- reward, remind, incentivize
+- brainstorm: what are some of the behaviors that make us successful,
+  what behaviors get you promoted here? Then see if these answers
+  match your values.
+- values are the living practices of the leaders and what they uphold
+- what's your company OS? values, principles, leadership practices
+- stitchfix: bring, kind, oriented
+- engineering values: product-centric, bias for action, simple
+  solution, quick ship.
+- Product interview for every engineer - collaborate with
+  non-technical person to solve a business problem. finds strong
+  communicators.
+
+- finding people who have built something from the ground up
+- passionate about solving workplace issues
+
+Attracting and retaining talent
+- takes time - build interest by speaking at conferences
+- active blog presence to build tech brand
+- open to hire remote
+- "wework is a technology company"
+- have a compelling vision and mission
+- people join companies for mission (initially) brand is key
+- people join ultimately for people
+- how does your company become known for a certain type of technology?
+- you must be able to sell and evangelize that vision for the future
+- we fall in love with people (not companies)
+- expose applicants to a wide variety of folks
+
+How do you sell employees on a longer-term vision (and with respect to
+it may not be fully defined or may be confidential)
+- how do you communicate in powerful way?
+- write a lot
+- find the motivations of the candidate and explain the overlap
+- your job as manager is painting the big picture
+- Share OKRs
+
+Status
+- what is the problem you're trying to solve?
+- awareness
+- socialization
+- what are the early warning signs of when something is not going to
+  scale?
+
+What are your top use cases for your 2020 vision?
+Building out a road map
+
+Have a process defined where new people can make their first commit on
+the first day. First feature in first month. New architects take
+longer. Invest in the tools you need to do this.
+
+think about culture *add*, instead of culture *fit*
+
+Recruiting is a long game. Don't compromise your values.
+
+Have a list of people that you regularly get coffee.
+
+OKRs - you must be able to measure what you value. you can let the
+teams define how they measure.
+
+** Startups, Partnerships, Trends and Google
+
+What offerings could help us with our Docs Platform?
+
+Google, Anchor (podcasting, just bought by Spotify), Overtime (sports)
+
+Most startups need a host
+
+
+GFS - Google for Startups
+
+Start on Android
+LJ Erwin
+lje@google.com
+
+Google Sand Hill program
+After series A, through VC referral
+
+- treat partnerships like mature companies treat hiring.
+- what can you do or not do with a particular partner
+- will the users really come from a product integration?
+- time as most valuable product
+- partnering with other startups where incentives align
+- unsplash
+- look for companies thinking of making integration easy (APIs)
+- how adventurous are they? risk taking ability. be careful how much
+  time you invest in large/low-risk tolerance companies.
+
+watch out for prioritizing short-term growth
+don't give away/lend too much value to big partners - damages your
+leverage
+
+Google is an AI-first company
+fintech (conference this week), health care, social impact verticals
+
+stay relentlessly focused on your mission. achieving product-market
+fit and scale as rapidly as possible.
+
+reap what you sow
+
+** DevOps
+stitchfix.com 1B public
+sensormatic solutions
+CI&T
+GH
+
+- speed of delivery
+- CD
+- no waterfall planning
+- it's about principles, not tools
+- removing walls
+- aligning incentives
+- if you write code, you're on call
+- leveraging successful os methodology in your org
+- enterprise open source
+- speed with accuracy
+- most important metrics: measure it then leverage it. uptime,
+  releases per day, sales, bad choice of metrics can tell you the
+  wrong things, cycle time, regressions
+- continuous improvement, SRE, blameless postmortems, extract
+  learnings, psychological safety, five whys to find root cause
+
+What excites you about 2019?
+- chaos engineering (Netflix) building resilience
+- cloud is a race to the bottom
+- hybrid is the next phase
+- you must keep investing in tooling
+- let teams decide where to invest
+- increase reliability and decrease tech debt
+- and be able to make a business case for this
+- cost of risk
+
+** The Alchemy and Science of Metrics
+Presenter from Indeed.com
+
+how do you know if your ideas work? use big data.
+data is useless - it can only give you answers
+
+Alchemy
+- incomplete
+- inflexible
+- inexplicable
+
+creating a science of metrics
+quality and quantity
+define a holistic system
+manipulate the system to achieve your goal
+
+engagement = clicks
+
+searches
+page views
+monthly unique visitors
+page count
+DAU daily active users
+
+turn data into information
+
+there is one right metric for everyone: lifetime value
+total product benefit generated over all time
+this could take a lifetime to measure
+
+meta-metrics
+- sensitivity: how quickly you can influence and move a metric
+- correlation: frequency of agreement with lifetime value
+- plot sensitivity vs correlation
+
+Pareto principle applied to efficiency - when you can't improve one
+thing without making something else work.
+- reward vs. risk
+- healthy vs. delicious
+
+"efficient frontier" between sensitivity and correlation as relates to
+lifetime value.
+
+map standard product funnel to metrics
+e.g. search tap apply interview offer
+
+problem to work to output to input to work to output and so on
+
+where to validate changes? at decision points
+favor outcomes when late in the funnel
+
+(session is being recorded)
+* 20190312
+** Building an In-House Design Powerhouse
+Building an In-House Design Powerhouse
+Stephen Gates, Head of Design Transformation at InVision
+
+creating change
+- avoid the thought trap. think beyond the project in front of you.
+  not about being right (because then someone else is wrong)
+- don't rationalize mediocracy
+- align the source of truth for your work to data, research, and real
+  consumers
+- start thinking about the words you use
+- take the light bulbs out of your deck inspiration vs creativity
+- invision design leadership forum
+- invision design exchange
+- a cover band never changed the world
+
+You create change through a lot of little things that add up to
+something big.
+
+"This might get me fired" Gregory Larkin.
+
+The transformation will not be approved.
+
+Teach, partner, lead the change to truly break through.
+
+** Product design in the age of AI
+VP Product at Shutterstock
+
+opportunity analysis
+opportunity compass
+capturing intent
+feedback must be validated against user experience and IA
+learn and release
+define, synthesize, prepare
+become a data enthusiast (hire a data scientist)
+* 20190313
+** A New Space Age: Disrupting Investment & Innovation
+What's next?
+- speed
+- time
+- relativity
+- black holes
+- holographic principle (each particle contains all universal information)
+- quantum behavior
+- consciousness has no definition of time
+
+Cause and effect
+- breaking the relativity model
+- inter-dimensional travel
+- we don't know what we're looking for, if we don't have a common
+  ancestor
+- the renaissance focus on transient qualities e.g. beauty
+- we are the transient ones
+- getting beyond transience to be able to travel through space and
+  time
+- Newtonian physics then relativity (100 years)
+- must beat the odds / break the system to travel
+
+The impossible is probable
+- Plato's allegory of the cave
+- we're at a tipping point in history
+- intergalactic travel in her lifetime
+- redefining what it means to be human
+- the definition of consciousness
+
+**  Leadership and Decision Making for Business and Life
+Dave Berke
+
+84 days OCS
+then Flight school
+9/11 then war
+We created a little America in the green zone
+Devlin report
+key terrain
+hearts and minds - pacification and stabilization
+tipping point
+
+
+Lessons learned:
+- humility
+- ownership
+- team work
+
+Leadership is the most important thing on the battlefield.
+
+Book: Extreme Ownership
+
+- cover and move
+  - team work
+  - work together - no silos
+  - enemy is outside the wire
+  - if the team fails, everyone fails
+  - relationships
+
+- simple
+  - if you're people aren't doing what you want them to, it's your fault
+  - simplify the mission: what is the goal
+  - communication: simple, clear, concise
+  - if people don't understand, they can't execute
+
+- prioritize and execute
+  - detach from emotion
+  - relax, look around, make a call
+
+- decentralized command
+  - everyone leads
+  - team must understand why
+  - don't wait for orders - lead
+  - work yourself out of a job
+
+people at the lowest level at the bottom of the organizations can
+adapt and improvise if they understand the mission.
+
+these things are simple but not easy
+
+Extreme Ownership (book title)
+- attitude/mind set
+- no one to blame
+- own all problems
+- lead up and down the chain
+
+Leadership is hard. Take ownership. Solve your own problems.
