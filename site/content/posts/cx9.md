@@ -38,4 +38,4 @@ draft: false
 
 - [link to more photos](https://photos.app.goo.gl/2rypqSwrs1xEMd3PA)
 
-![photo of bike](/images/blog/cx9-1.jpg)
+![photo of bike](/images/posts/2019/04/cx9-1.jpg)
