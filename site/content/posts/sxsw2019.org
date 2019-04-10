@@ -1,39 +1,44 @@
-﻿#+TITLE: SXSW 2019 Selected Raw Notes
+﻿---
+title: "SXSW 2019 Selected Raw Notes"
+date: 2019-04-05
+draft: false
+featuredImg: "/images/posts/2019/04/sxsw-night.jpg"
+tags: 
+  - sxsw
+  - tech
+  - future
+---
+#+TITLE: SXSW 2019 Selected Raw Notes
 #+AUTHOR: Robb Romans
 #+DATE: 2019-04-05
 #+DRAFT: false
-#+TAGS: sxsw, tech, future tech, content, leadership, vision
+#+TAGS: sxsw, tech, future
 
-* SXSW 2019 Selected Raw Notes
+* Rohit Bhargava
+** More noise today
+- Harder to establish trust
+- Non-obvious thinking
+- Curated observation of the accelerated present
 
-* 20190308
-** Rohit Bhargava
-More noise today
-Harder to establish trust
-
-Non-obvious thinking
-Haystack method
+** Haystack method
 - Curating your ideas
 - Think if ideas like frequent flyer miles
 - Use colored tabs to save interesting ideas in your books
 - Physically collecting media and organizing it
 
-Non-obvious 2019
- Curated observation of the accelerated present
-
-*** Retro trust
+** Retro trust
 - Look back to brands we used to know
 - Deliberate downgrading
 - Nostalgia
 - Collaborating with trusted brands or images
 
-*** Muddled masculinity
+** Muddled masculinity
 - Widespread confusion and angst
 - Fear of being labeled
 - “Today’s masculinity is stifling” The Atlantic
 - Encourage the non-conforming
 
-*** Innovation Envy
+** Innovation Envy
 - FOMO Me-too fake innovation. Such as:
 - Ping-pong tables and open plan seating
 - Hackathons
@@ -42,12 +47,12 @@ Non-obvious 2019
 - “This is innovative but not risky”
 - The opposite of love is indifference
 
-*** Artificial Influence
+** Artificial Influence
 - Large amounts of fakery
 - Virtual influencers
 - Don’t hide the artificial ingredients
 
-*** Enterprise Empathy
+** Enterprise Empathy
 - A driver of innovation and revenue
 - Quiet hour
 - Slow checkout lane
@@ -55,14 +60,14 @@ Non-obvious 2019
 - Holographic companions
 - “Made with empathy” as a strategy
 
-*** Robot Renaissance
+** Robot Renaissance
 - Builders and explorers
 - Humanoid
 - What are good robots?
 - How should we relate to them?
 - Embracing robots with curiosity and not concern
 
-*** Back-story telling
+** Back-story telling
 - Branded content is a waste of time
 - See Weber Grills - great content marketing
 - Guide, checklist, hand to dealer
@@ -72,17 +77,13 @@ Non-obvious 2019
 - Find the meaning and you can tell the story
 
 
-I am not a speed reader; I am a speed understander - Isaac Asimov
-
-
-Trends are not a fire, but a spark.
-
-Where do you start?
+** I am not a speed reader; I am a speed understander - Isaac Asimov
+** Trends are not a fire, but a spark.
+** Where do you start?
 - See SXSW card
 - rohitbhargava.com/sxsw
 
-* 20190309
-** No Hard Feelings: Emotions at Work
+* No Hard Feelings: Emotions at Work
 "No Hard Feelings" book
 Liz Fisslien, Mollie West Duffy
 @lisandmollie
@@ -159,7 +160,7 @@ Emotions in decision making
 Ask question to determine others real intent
 Walk away when needed
 
-** Grit
+* Grit
 @AnnRHiatt
 
 Amazon, Google
@@ -251,8 +252,8 @@ Reward your employees with time if you can.
 There's nothing to celebrate in useless toil.
 
 Productivity isn't a virtue. Creativity, Generosity.
-* 20190311
-** Engineering a team for high growth
+
+* Engineering a team for high growth
 Panelists: Yahoo, StitchFix, Slack, WeWork
 
 First, must build trust
@@ -339,7 +340,7 @@ Have a list of people that you regularly get coffee.
 OKRs - you must be able to measure what you value. you can let the
 teams define how they measure.
 
-** Startups, Partnerships, Trends and Google
+* Startups, Partnerships, Trends and Google
 
 What offerings could help us with our Docs Platform?
 
@@ -379,7 +380,7 @@ fit and scale as rapidly as possible.
 
 reap what you sow
 
-** DevOps
+* DevOps
 stitchfix.com 1B public
 sensormatic solutions
 CI&T
@@ -411,7 +412,7 @@ What excites you about 2019?
 - and be able to make a business case for this
 - cost of risk
 
-** The Alchemy and Science of Metrics
+* The Alchemy and Science of Metrics
 Presenter from Indeed.com
 
 how do you know if your ideas work? use big data.
@@ -463,8 +464,8 @@ where to validate changes? at decision points
 favor outcomes when late in the funnel
 
 (session is being recorded)
-* 20190312
-** Building an In-House Design Powerhouse
+
+* Building an In-House Design Powerhouse
 Building an In-House Design Powerhouse
 Stephen Gates, Head of Design Transformation at InVision
 
@@ -489,7 +490,7 @@ The transformation will not be approved.
 
 Teach, partner, lead the change to truly break through.
 
-** Product design in the age of AI
+* Product design in the age of AI
 VP Product at Shutterstock
 
 opportunity analysis
@@ -499,8 +500,8 @@ feedback must be validated against user experience and IA
 learn and release
 define, synthesize, prepare
 become a data enthusiast (hire a data scientist)
-* 20190313
-** A New Space Age: Disrupting Investment & Innovation
+
+* A New Space Age: Disrupting Investment & Innovation
 What's next?
 - speed
 - time
@@ -529,7 +530,7 @@ The impossible is probable
 - redefining what it means to be human
 - the definition of consciousness
 
-**  Leadership and Decision Making for Business and Life
+*  Leadership and Decision Making for Business and Life
 Dave Berke
 
 84 days OCS

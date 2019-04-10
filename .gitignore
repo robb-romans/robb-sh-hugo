@@ -1,6 +1,7 @@
 node_modules/
 dist/
 site/data/webpack.json
+site/resources/_gen
 # Editors
 *~
 .*.swp
