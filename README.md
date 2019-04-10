@@ -28,7 +28,7 @@ This code publishes my personal website at <https://robb.sh/>.
 |  |  |--index.html    // The index page
 |  |--static           // Files in here ends up in the public folder
 |--src                 // Files that will pass through the asset pipeline
-|  |--css              // Webpack will bundle imported css seperately
-|  |--fonts            // Fonts get moved to a flattened directory inside dist
+|  |--css              // Webpack will bundle imported css separately
+|  |--fonts            // Fonts get moved to a flattened directory inside /dist
 |  |--index.js         // index.js is the webpack entry for your css & js assets
 ```
