@@ -1,6 +1,6 @@
 ---
-title: 'Site tech'
-date: 2019-04-10T10:56:50-07:00
+title: "Site tech"
+date: 2019-04-10T12:22:07-05:00
 draft: false
 ---
 
