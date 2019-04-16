@@ -1,6 +1,6 @@
 # README
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/15a99f94-b4f9-46a7-bf2c-122bee83114a/deploy-status)](https://app.netlify.com/sites/xenodochial-hoover-28928a/deploys) [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20NC%204.0-green.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/15a99f94-b4f9-46a7-bf2c-122bee83114a/deploy-status)](https://app.netlify.com/sites/xenodochial-hoover-28928a/deploys) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-success.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## This code publishes my personal website at <https://robb.sh/>
 
