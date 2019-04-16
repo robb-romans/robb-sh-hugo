@@ -1,8 +1,8 @@
 # README
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/15a99f94-b4f9-46a7-bf2c-122bee83114a/deploy-status)](https://app.netlify.com/sites/xenodochial-hoover-28928a/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/15a99f94-b4f9-46a7-bf2c-122bee83114a/deploy-status)](https://app.netlify.com/sites/xenodochial-hoover-28928a/deploys) [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20NC%204.0-green.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-This code publishes my personal website at <https://robb.sh/>.
+## This code publishes my personal website at <https://robb.sh/>
 
 ## Thank you to the following projects for the tools used to build this site
 
@@ -19,16 +19,21 @@ This code publishes my personal website at <https://robb.sh/>.
 
 ## File structure
 
-```bash
-|--site                // hugo builds everything in here
-|  |--content          // Pages and collections - ask if you need extra pages
+```text
+|--site                // Hugo builds everything here
+|  |--archetypes       // Defaults for content types
+|  |--content          // Pages and collections
 |  |--data             // YAML data files with any data for use in examples
-|  |--layouts          // This is where all templates go
-|  |  |--partials      // This is where includes live
+|  |--layouts          // Layout templates
+|  |  |--partials      // Includes
 |  |  |--index.html    // The index page
-|  |--static           // Files in here ends up in the public folder
+|  |--resources        // Generated assets
+|  |--static           // Files here end up in the public folder
+|  |--themes           // Themes added here as Git submodules
 |--src                 // Files that will pass through the asset pipeline
-|  |--css              // Webpack will bundle imported css separately
+|  |--css              // Webpack will bundle imported CSS separately
 |  |--fonts            // Fonts get moved to a flattened directory inside /dist
-|  |--index.js         // index.js is the webpack entry for your css & js assets
+|  |--index.js         // index.js is the webpack entry for your CSS & JS assets
 ```
+
+For more information, see [Hugo's Directory Structure Explained](https://www.jakewiesler.com/blog/hugo-directory-structure/).
