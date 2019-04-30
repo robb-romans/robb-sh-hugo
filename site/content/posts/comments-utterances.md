@@ -1,7 +1,7 @@
 ---
 title: "Adding Hugo Blog Comments Using Utteranc.es"
-date: 2019-04-29T18:55:05-05:00
-draft: true
+date: 2019-04-29T19:13:11-05:00
+draft: false
 tags:
   - hugo
   - serverless
