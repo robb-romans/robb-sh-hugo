@@ -77,6 +77,6 @@ googleAnalytics = "UA-138217250-1"
     weight = 10
 
   [[menu.main]]
-    name = "site tech"
+    name = "code"
     url = "/about-site"
     weight = 20
