@@ -2,6 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/15a99f94-b4f9-46a7-bf2c-122bee83114a/deploy-status)](https://app.netlify.com/sites/robb-sh/deploys)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-success.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Twitter](https://img.shields.io/twitter/follow/RobbRomans.svg?style=social")](https://twitter.com/robbromans)
 
 ## This code publishes my personal website at <https://robb.sh/>
 
