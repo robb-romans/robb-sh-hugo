@@ -1,11 +1,13 @@
 ---
-title: "[bike archive] 2009 Cannondale CX9 Cyclocross bike"
+title: "2009 Cannondale CX9 Cyclocross bike"
 date: 2019-04-02T10:32:17-05:00
 draft: false
 featuredImg: "/images/posts/2019/04/cx9-1.jpg"
 tags: 
   - bicycling
 ---
+
+*Bike archive*
 
 ## Frameset
 
