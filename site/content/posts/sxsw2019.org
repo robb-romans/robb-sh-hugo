@@ -5,8 +5,6 @@ draft: false
 featuredImg: "/images/posts/2019/04/sxsw-night.jpg"
 tags: 
   - sxsw
-  - tech
-  - future
 ---
 #+TITLE: SXSW 2019 Selected Raw Notes
 #+AUTHOR: Robb Romans
