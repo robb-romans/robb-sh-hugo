@@ -1,5 +1,5 @@
 ---
-title: "Notes on the 2019 Write the Docs Conference in Portland"
+title: "Highlights from the 2019 Write the Docs Conference in Portland"
 date: 2019-07-02T10:56:59-05:00
 draft: false
 featuredImg: "/images/posts/2019/07/wtd-1.jpg"
