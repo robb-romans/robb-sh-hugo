@@ -7,9 +7,23 @@ tags:
   - docs
 ---
 
+## Introduction
+
+I was fortunate to be able to attend Write the Docs Portland this year for the second time. I always get a ton of value from the conference sessions and the fellowship with other writers. Here are some notes and links that I hope you find helpful.
+
+### Common themes
+
+- sense of community and overcoming isolation
+- learning how others solve problems
+- industry best practices
+- latest research and solutions
+- the surprising value of lightning talks
+
 ## Writing Day notes
 
 ### Writing Day tables
+
+On Writing Day, there were a multitude of tables set up to discuss various topics. Here are the tables that I spent some time at.
 
 - Tensorflow version 2
 - Microsoft
@@ -23,7 +37,7 @@ tags:
 
 ### Antora / AsciiDoc tables
 
-#### Links
+I spent a lot of time here. OpenDevise and Antora are doing some amazing things. Here are some links to get you started.
 
 - <https://github.com/DocOps/wtd2019/blob/master/README.adoc>
 - <https://github.com/tomjoht/documentation-theme-jekyll>
@@ -393,11 +407,10 @@ See: Mermaid software
 
 <br/><br/>
 
-## Lessons learned
-
-Lessons learned at the conference.
+## Lessons learned at the conference
 
 - The value of our community
+  - writers sometimes find themselves isolated
   - connectedness
   - solidarity
   - esprit de corp
@@ -416,3 +429,5 @@ Lessons learned at the conference.
   - automated doc testing
 - the increasing use of Git and GitHub, GitLab, etc.
 - the value of learning the latest documentation best practices
+
+## [A link to Aaron Thayer's detailed conference notes](https://github.com/a-thay/WTD-2019/)
