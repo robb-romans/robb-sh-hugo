@@ -13,7 +13,7 @@ three reasons: to learn about the best options available, to provide a dedicated
 way to interact with readers, and because this is relevant to my [day
 job](https://docs.rackspace.com/).
 
-This blog [is built]({{< ref "about-site.md" >}}) with Hugo, and the simplest
+This blog [is built]({{< ref "/about-site.md" >}}) with Hugo, and the simplest
 comment system to use in Hugo is [Disqus](https://disqus.com/). Hugo provides
 built-in support for it, and most themes make it easy to display comments at the
 end of your posts by just setting a variable or two. However, there are some
