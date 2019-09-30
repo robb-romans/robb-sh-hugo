@@ -4,7 +4,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-success.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Twitter](https://img.shields.io/twitter/follow/RobbRomans.svg?style=social")](https://twitter.com/robbromans)
 
-## This code publishes my personal website at <https://robb.sh/>
+## This code publishes the personal website of Robb Romans at <https://robb.sh/>
 
 ## Thank you to the following projects for the tools used to build this site
 
