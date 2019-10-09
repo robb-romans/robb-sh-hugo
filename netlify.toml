@@ -1,5 +1,6 @@
 [build.environment]
-  NPM_VERSION = "6.4.1"
+  NPM_VERSION = "6.9.0"
+  RUBY_VERSION = "2.6.2"
 
 [build]
   command = "npm run build"
