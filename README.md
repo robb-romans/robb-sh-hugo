@@ -3,6 +3,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/15a99f94-b4f9-46a7-bf2c-122bee83114a/deploy-status)](https://app.netlify.com/sites/robb-sh/deploys)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-success.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Accessibility](https://img.shields.io/badge/accessibility-passing-success?style=flat&logo=html5&logoColor=white)](https://wave.webaim.org/report#/https://robb.sh/)
+[![PageSpeed](https://img.shields.io/badge/PageSpeed-98%20%2F%20100-success?style=flat&logo=google&logoColor=white)](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Frobb.sh%2F&tab=desktop)
 [![Twitter](https://img.shields.io/twitter/follow/RobbRomans.svg?style=social")](https://twitter.com/robbromans)
 
 ## This code publishes the personal website of Robb Romans at <https://robb.sh/>
