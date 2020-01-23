@@ -19,7 +19,7 @@
 * [Webpack](<https://webpack.js.org/>) asset pipeline
 * [PostCSS](<https://postcss.org/>) JavaScript CSS transform tool
 * [Babel](<https://babeljs.io/>) JavaScript compiler
-* [RenovateBot](<https://renovatebot.com/>) automated dependency updates
+* [WhiteSource Renovate](<https://renovate.whitesourcesoftware.com/>) automated dependency updates
 
 ## File structure
 
