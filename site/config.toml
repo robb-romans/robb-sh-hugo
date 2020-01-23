@@ -4,9 +4,10 @@ defaultContentLanguage = "en"
 title = "./robb.sh"
 theme = "hermit"
 # enableGitInfo = true
-pygmentsCodefences  = true
-pygmentsUseClasses  = true
-# hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
+pygmentsCodeFences  = true
+pygmentsStyle = "solarized-dark"
+# If Chinese/Japanese/Korean is your main content language, enable this to make wordCount work right.
+# hasCJKLanguage = true
 rssLimit = 10  # Maximum number of items in the RSS feed.
 # This copyright message is only used by the RSS template.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
@@ -18,10 +19,10 @@ googleAnalytics = "UA-138217250-1"
 [author]
   name = "Robb Romans"
 
-[blackfriday]
-  # hrefTargetBlank = true
-  # noreferrerLinks = true
-  # nofollowLinks = true
+# [markup]
+#   defaultMarkdownHandler = "goldmark"  # new in Hugo v0.60
+#   [markup.highlight]
+#     style = "solarized-dark"
 
 [taxonomies]
   tag = "tags"
