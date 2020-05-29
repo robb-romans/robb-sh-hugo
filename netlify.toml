@@ -1,5 +1,4 @@
 [build.environment]
-  NPM_VERSION = "6.9.0"
   RUBY_VERSION = "2.6.2"
 
 [build]
