@@ -1,7 +1,7 @@
 {
-  "name": "victor-hugo",
-  "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
+  "name": "robb-sh-hugo",
+  "version": "1.0.1",
+  "description": "Website code for https://robb.sh",
   "repository": "netlify/victor-hugo",
   "main": "index.js",
   "scripts": {
@@ -10,13 +10,13 @@
     "start:hugo": "hugo -d ../dist -s site -vw",
     "start:webpack": "webpack-dev-server --config webpack.dev.js --hot",
     "preview": "run-p preview:**",
-    "preview:hugo": "npm run start:hugo -- -D -F",
+    "preview:hugo": "npm run start:hugo -- --buildDrafts --buildFuture",
     "preview:webpack": "npm run start:webpack",
     "prebuild": "rimraf dist",
     "build": "npm run build:webpack && npm run build:hugo",
     "build:preview": "npm run build:webpack && npm run build:hugo:preview",
     "build:hugo": "hugo -d ../dist -s site -v",
-    "build:hugo:preview": "npm run build:hugo -- -D -F",
+    "build:hugo:preview": "npm run build:hugo -- --buildDrafts --buildFuture",
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
   },
   "author": "",

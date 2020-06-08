@@ -24,20 +24,21 @@
 ## File structure
 
 ```text
-|--site                // Hugo builds everything here
-|  |--archetypes       // Defaults for content types
+|--site                // Hugo builds this folder
+|  |--archetypes       // Defaults for types of new content
+|  |--assets           // Files that will pass through the Hugo asset pipeline
 |  |--content          // Pages and collections
-|  |--data             // YAML data files with any data for use in examples
+|  |--data             // YAML data files with data for use in examples
 |  |--layouts          // Layout templates
 |  |  |--partials      // Includes
 |  |  |--index.html    // The index page
-|  |--resources        // Generated assets
-|  |--static           // Files here end up in the public folder
-|  |--themes           // Themes added here as Git submodules
-|--src                 // Files that will pass through the asset pipeline
+|  |--resources        // Generated assets from Webpack
+|  |--static           // Files here end up in the site/public folder (?)
+|  |--themes           // Add themes here as Git submodules
+|--src                 // Files that will pass through the Webpack asset pipeline
 |  |--css              // Webpack will bundle imported CSS separately
 |  |--fonts            // Fonts get moved to a flattened directory inside /dist
-|  |--index.js         // index.js is the webpack entry for your CSS & JS assets
+|  |--index.js         // index.js is the Webpack entry for CSS & JS assets
 ```
 
 For more information, see [Hugo's Directory Structure Explained](https://www.jakewiesler.com/blog/hugo-directory-structure/).

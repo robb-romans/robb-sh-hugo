@@ -3,26 +3,17 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "./robb.sh"
 theme = "hermit"
-# enableGitInfo = true
 pygmentsCodeFences  = true
 pygmentsStyle = "solarized-dark"
-# If Chinese/Japanese/Korean is your main content language, enable this to make wordCount work right.
-# hasCJKLanguage = true
 rssLimit = 10  # Maximum number of items in the RSS feed.
 # This copyright message is only used by the RSS template.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
                     # https://www.webfx.com/tools/emoji-cheat-sheet/
 googleAnalytics = "UA-138217250-1"
-# disqusShortname = "yourdiscussshortname"
 
 [author]
   name = "Robb Romans"
-
-# [markup]
-#   defaultMarkdownHandler = "goldmark"  # new in Hugo v0.60
-#   [markup.highlight]
-#     style = "solarized-dark"
 
 [taxonomies]
   tag = "tags"
@@ -39,10 +30,11 @@ googleAnalytics = "UA-138217250-1"
   # images = [""]
   themeColor = "#494f5c"
 
-#  homeSubtitle = "pound bang bin bash robb"
+  # homeSubtitle = "pound bang bin bash robb"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
+  # enableGitInfo = true
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = "https://github.com/username/repository/commit/"
 
