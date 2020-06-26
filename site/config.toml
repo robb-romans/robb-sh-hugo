@@ -26,7 +26,7 @@ googleAnalytics = "UA-138217250-1"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  # description = ""
+  description = "./robb.sh"
   # images = [""]
   themeColor = "#494f5c"
 
