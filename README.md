@@ -20,6 +20,7 @@
 * [PostCSS](<https://postcss.org/>) JavaScript CSS transform tool
 * [Babel](<https://babeljs.io/>) JavaScript compiler
 * [WhiteSource Renovate](<https://renovate.whitesourcesoftware.com/>) automated dependency updates
+* [GoatCounter](https://www.goatcounter.com/) open source web analytics platform
 
 ## File structure
 

@@ -10,7 +10,6 @@ rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
                     # https://www.webfx.com/tools/emoji-cheat-sheet/
-googleAnalytics = "UA-138217250-1"
 
 [author]
   name = "Robb Romans"
