@@ -1,6 +1,6 @@
 {
   "name": "robb-sh-hugo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Website code for https://robb.sh",
   "repository": "gitlab:robb-romans/robb-sh-victor-hugo",
   "bugs": {
@@ -60,7 +60,7 @@
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0",
-    "webpack-merge": "^4.2.2",
+    "webpack-merge": "^5.0.6",
     "whatwg-fetch": "^3.0.0"
   }
 }
