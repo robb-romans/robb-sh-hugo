@@ -1,4 +1,5 @@
 baseURL = "/"
+assetDir = '../src'
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "./robb.sh"
