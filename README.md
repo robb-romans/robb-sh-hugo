@@ -13,10 +13,9 @@
 * [GitLab](<https://gitlab.com/>) DevOps lifecycle tools
 * [Netlify](<https://www.netlify.com/>) web project automation
 * [LetsEncrypt](<https://letsencrypt.org/>) certificate authority
-* [Victor Hugo](<https://github.com/netlify-templates/victor-hugo/>) deployment templates
+* [Victor Hugo](<https://github.com/netlify-templates/victor-hugo/>) OG deployment template
 * [Hugo](<https://gohugo.io/>) static site generator
 * [Hermit](https://github.com/Track3/hermit) smooth and clean Hugo theme
-* [Webpack](<https://webpack.js.org/>) asset pipeline
 * [PostCSS](<https://postcss.org/>) JavaScript CSS transform tool
 * [Babel](<https://babeljs.io/>) JavaScript compiler
 * [WhiteSource Renovate](<https://renovate.whitesourcesoftware.com/>) automated dependency updates
@@ -27,19 +26,18 @@
 ```text
 |--site                // Hugo builds this folder
 |  |--archetypes       // Defaults for types of new content
-|  |--assets           // Files that will pass through the Hugo asset pipeline
 |  |--content          // Pages and collections
 |  |--data             // YAML data files with data for use in examples
 |  |--layouts          // Layout templates
 |  |  |--partials      // Includes
 |  |  |--index.html    // The index page
-|  |--resources        // Generated assets from Webpack
+|  |--resources        // Generated assets
 |  |--static           // Files here end up in the site/public folder (?)
 |  |--themes           // Add themes here as Git submodules
-|--src                 // Files that will pass through the Webpack asset pipeline
-|  |--css              // Webpack will bundle imported CSS separately
-|  |--fonts            // Fonts get moved to a flattened directory inside /dist
-|  |--index.js         // index.js is the Webpack entry for CSS & JS assets
+|--src                 // Files that will pass through the Hugo asset pipeline
+|  |--css              // Imported CSS files
+|  |--fonts            // Imported font files
+|  |--index.js         // index.js is the entry point for imported CSS & JS assets
 ```
 
 For more information, see [Hugo's Directory Structure Explained](https://www.jakewiesler.com/blog/hugo-directory-structure/).
