@@ -1,12 +1,12 @@
 baseURL = "/"
-assetDir = '../src'
+assetDir = '../../../src'
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "./robb.sh"
 theme = "hermit"
 pygmentsCodeFences  = true
 pygmentsStyle = "solarized-dark"
-rssLimit = 10  # Maximum number of items in the RSS feed.
+rssLimit = 10
 # This copyright message is only used by the RSS template.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
@@ -58,10 +58,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "github"
     url = "https://github.com/robb-romans"
 
- [[params.social]]
+  [[params.social]]
     name = "twitter"
     url = "https://twitter.com/robbromans"
-
+#endparams
 
 [menu]
   [[menu.main]]
