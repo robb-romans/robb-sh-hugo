@@ -12,7 +12,7 @@
   "scripts": {
     "lint": "eslint src",
     "start": "run-p start:**",
-    "start:hugo": "hugo -d ../dist -s site --verbose --watch",
+    "start:hugo": "hugo -d ../dist -s site --verbose --buildDrafts --buildFuture --watch",
     "preview": "run-p preview:**",
     "preview:hugo": "npm run start:hugo -- --buildDrafts --buildFuture",
     "prebuild": "rimraf dist",
