@@ -4,6 +4,9 @@ date: 2020-02-05T11:59:39-06:00
 draft: false
 toc: false
 featuredImg: "/images/posts/2020/02/pexels-photo-169573.jpeg"
+slug: "install-antora-node-ubuntu-nosudo"
+aliases:
+  - "/posts/installing-antora-ubuntu-with-lts-node-without-sudo/"
 tags: 
   - hugo
   - asciidoc

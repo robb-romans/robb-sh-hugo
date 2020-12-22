@@ -3,6 +3,8 @@ title: "SXSW 2019 Selected Raw Notes"
 date: 2019-04-05
 draft: false
 featuredImg: "/images/posts/2019/04/sxsw-night.jpg"
+aliases:
+  - "/posts/sxsw2019/"
 tags: 
   - sxsw
 ---

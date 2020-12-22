@@ -15,6 +15,9 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [author]
   name = "Robb Romans"
 
+[permalinks]
+  posts = "/posts/:slug/"
+
 [taxonomies]
   tag = "tags"
   # Categories are disabled by default.
