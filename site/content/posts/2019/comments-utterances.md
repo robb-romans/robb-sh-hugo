@@ -2,6 +2,9 @@
 title: "How To Add Blog Page Comments with Utteranc.es"
 date: 2019-04-29T19:13:11-05:00
 draft: false
+slug: "add-utterances-comments-to-hugo"
+aliases:
+  - "/posts/comments-utterances/"
 tags:
   - hugo
   - serverless

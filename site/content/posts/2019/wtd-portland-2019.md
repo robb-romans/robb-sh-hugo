@@ -3,6 +3,9 @@ title: "Highlights from the 2019 Write the Docs Conference in Portland"
 date: 2019-07-02T10:56:59-05:00
 draft: false
 featuredImg: "/images/posts/2019/07/wtd-1.jpg"
+slug: "2019-write-the-docs-conference-highlights"
+aliases:
+  - "/posts/wtd-portland-2019/"
 tags:
   - docs
 ---
