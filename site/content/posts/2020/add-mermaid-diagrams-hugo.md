@@ -1,5 +1,5 @@
 ---
-title: "Build and Display Mermaid Diagrams in Hugo"
+title: "Build and Display Mermaid.js Diagrams in Hugo"
 slug: how-to-use-mermaid-diagrams-in-hugo
 date: 2020-12-19T12:42:28-06:00
 draft: false
@@ -13,7 +13,7 @@ You can use plain text markup formats like
 [mermaid.js](https://mermaid-js.github.io/mermaid/#/) to dynamically create
 graphical diagrams within your Markdown files, instead of using a separate
 diagram tool to create binary image files. For some background on why you might
-want to do this, check out this talk:
+want to do this, check out this talk by Avi Flax:
 
 {{< youtube 3i-C7qbRGGQ >}}
 
@@ -70,3 +70,5 @@ pie
     "Alors" : 10
     "Non" : 5
 {{</mermaid>}}
+
+{{< tweet 1341895378938032130 >}}
