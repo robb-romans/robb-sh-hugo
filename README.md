@@ -18,7 +18,6 @@
 * [Hermit](https://github.com/Track3/hermit) smooth and clean Hugo theme
 * [PostCSS](<https://postcss.org/>) JavaScript CSS transform tool
 * [Babel](<https://babeljs.io/>) JavaScript compiler
-* [WhiteSource Renovate](<https://renovate.whitesourcesoftware.com/>) automated dependency updates
 * [GoatCounter](https://www.goatcounter.com/) open source web analytics platform
 
 ## File structure
