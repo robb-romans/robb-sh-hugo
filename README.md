@@ -10,7 +10,7 @@
 
 ## Thank you to the following projects for the tools used to build this site
 
-* [GitHub](<https://github.com/>) software developent platform
+* [GitHub](<https://github.com/>) software development platform
 * [Netlify](<https://www.netlify.com/>) web project automation
 * [LetsEncrypt](<https://letsencrypt.org/>) certificate authority
 * [Victor Hugo](<https://github.com/netlify-templates/victor-hugo/>) OG deployment template
@@ -31,10 +31,6 @@
 |  |--resources        // Generated assets
 |  |--static           // Files here end up in the site/public folder (?)
 |  |--themes           // Add themes here as Git submodules
-|--src                 // Files that will pass through the Hugo asset pipeline
-|  |--css              // Imported CSS files
-|  |--fonts            // Imported font files
-|  |--index.js         // index.js is the entry point for imported CSS & JS assets
 ```
 
 For more information, see [Hugo's Directory Structure Explained](https://www.jakewiesler.com/blog/hugo-directory-structure/).
