@@ -10,10 +10,9 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint src",
-    "start": "run-p start:**",
+    "start": "run start:**",
     "start:hugo": "hugo -d ../dist -s site --verbose --buildDrafts --buildFuture --watch",
-    "preview": "run-p preview:**",
+    "preview": "run preview:**",
     "preview:hugo": "npm run start:hugo -- --buildDrafts --buildFuture",
     "prebuild": "rimraf dist",
     "build": "npm run build:hugo",
@@ -22,19 +21,7 @@
     "build:hugo:preview": "npm run build:hugo -- --buildDrafts --buildFuture"
   },
   "devDependencies": {
-    "@babel/cli": "^7.12.10",
-    "@babel/core": "^7.12.10",
-    "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
-    "@babel/plugin-syntax-object-rest-spread": "^7.8.3",
-    "@babel/preset-env": "^7.12.11",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^7.15.0",
-    "hugo-bin": "^0.67.1",
-    "npm-run-all": "^4.1.5",
-    "postcss": "8.2.1",
-    "postcss-cli": "^8.3.1",
-    "postcss-import": "^14.0.0",
-    "postcss-preset-env": "^6.7.0",
+    "hugo-bin": "^0.71.1",
     "rimraf": "^3.0.2"
   }
 }

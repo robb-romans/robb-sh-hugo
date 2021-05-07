@@ -10,14 +10,12 @@
 
 ## Thank you to the following projects for the tools used to build this site
 
-* [GitLab](<https://gitlab.com/>) DevOps lifecycle tools
+* [GitHub](<https://github.com/>) software developent platform
 * [Netlify](<https://www.netlify.com/>) web project automation
 * [LetsEncrypt](<https://letsencrypt.org/>) certificate authority
 * [Victor Hugo](<https://github.com/netlify-templates/victor-hugo/>) OG deployment template
 * [Hugo](<https://gohugo.io/>) static site generator
 * [Hermit](https://github.com/Track3/hermit) smooth and clean Hugo theme
-* [PostCSS](<https://postcss.org/>) JavaScript CSS transform tool
-* [Babel](<https://babeljs.io/>) JavaScript compiler
 * [GoatCounter](https://www.goatcounter.com/) open source web analytics platform
 
 ## File structure
