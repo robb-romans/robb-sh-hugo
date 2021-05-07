@@ -1,14 +1,13 @@
 {
   "name": "robb-sh-hugo",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Website code for https://robb.sh",
-  "repository": "gitlab:robb-romans/robb-sh-victor-hugo",
+  "repository": "github:robb-romans/robb-sh-hugo",
   "bugs": {
-    "url": "https://gitlab.com/robb-romans/robb-sh-victor-hugo/-/issues"
+    "url": "https://github.com/robb-romans/robb-sh-hugo/issues"
   },
   "homepage": "https://robb.sh",
   "license": "MIT",
-  "main": "index.js",
   "scripts": {
     "start": "run start:**",
     "start:hugo": "hugo -d ../dist -s site --verbose --buildDrafts --buildFuture --watch",
