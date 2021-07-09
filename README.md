@@ -5,18 +5,19 @@
 [![Accessibility](https://img.shields.io/badge/accessibility-passing-success?style=flat&logo=html5&logoColor=white)](https://wave.webaim.org/report#/https://robb.sh/)
 [![PageSpeed](https://img.shields.io/badge/PageSpeed-98%20%2F%20100-success?style=flat&logo=google&logoColor=white)](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Frobb.sh%2F&tab=desktop)
 [![Twitter](https://img.shields.io/twitter/follow/RobbRomans.svg?style=social")](https://twitter.com/robbromans)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/robb-romans/robb-sh-hugo)
 
 ## This code publishes the personal website of Robb Romans at <https://robb.sh/>
 
 ## Thank you to the following projects for the tools used to build this site
 
-* [GitHub](<https://github.com/>) software development platform
-* [Netlify](<https://www.netlify.com/>) web project automation
-* [LetsEncrypt](<https://letsencrypt.org/>) certificate authority
-* [Victor Hugo](<https://github.com/netlify-templates/victor-hugo/>) OG deployment template
-* [Hugo](<https://gohugo.io/>) static site generator
-* [Hermit](https://github.com/Track3/hermit) smooth and clean Hugo theme
-* [GoatCounter](https://www.goatcounter.com/) open source web analytics platform
+- [GitHub](https://github.com/) software development platform
+- [Netlify](https://www.netlify.com/) web project automation
+- [LetsEncrypt](https://letsencrypt.org/) certificate authority
+- [Victor Hugo](https://github.com/netlify-templates/victor-hugo/) OG deployment template
+- [Hugo](https://gohugo.io/) static site generator
+- [Hermit](https://github.com/Track3/hermit) smooth and clean Hugo theme
+- [GoatCounter](https://www.goatcounter.com/) open source web analytics platform
 
 ## File structure
 
