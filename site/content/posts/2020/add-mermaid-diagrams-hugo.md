@@ -1,5 +1,5 @@
 ---
-title: "Build and Display Mermaid.js Diagrams in Hugo"
+title: "Build and display Mermaid.js diagrams in Hugo"
 slug: how-to-use-mermaid-diagrams-in-hugo
 date: 2020-12-19T12:42:28-06:00
 draft: false
@@ -64,11 +64,11 @@ After running your Hugo build process, that code renders in your page to:
 
 {{<mermaid align="left" theme="neutral">}}
 pie
-    title French Words I Know
-    "Merde" : 50
-    "Oui" : 35
-    "Alors" : 10
-    "Non" : 5
+title French Words I Know
+"Merde" : 50
+"Oui" : 35
+"Alors" : 10
+"Non" : 5
 {{</mermaid>}}
 
 {{< tweet 1341895378938032130 >}}

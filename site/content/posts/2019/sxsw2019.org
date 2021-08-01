@@ -1,5 +1,5 @@
 ﻿---
-title: "SXSW 2019 Selected Raw Notes"
+title: "SXSW 2019 selected raw notes"
 date: 2019-04-05
 draft: false
 featuredImg: "/images/posts/2019/04/sxsw-night.jpg"
