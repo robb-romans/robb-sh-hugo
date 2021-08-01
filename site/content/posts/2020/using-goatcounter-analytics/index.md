@@ -1,5 +1,5 @@
 ---
-title: "How to add GoatCounter Analytics to your Hugo Website"
+title: "How to add GoatCounter Analytics to your Hugo website"
 date: 2020-07-03T07:47:09-05:00
 draft: false
 featuredImg: "photo-of-mountain-goat-3225530.jpg"

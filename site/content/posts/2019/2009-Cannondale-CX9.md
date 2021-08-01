@@ -1,11 +1,11 @@
 ---
-title: "2009 Cannondale CX9 Cyclocross Bike"
+title: "2009 Cannondale CX9 cyclocross bike"
 date: 2019-04-02T10:32:17-05:00
 draft: false
 featuredImg: "/images/posts/2019/04/cx9-1.jpg"
 aliases:
   - "/posts/cx9/"
-tags: 
+tags:
   - cycling
   - archive
 ---
@@ -19,7 +19,6 @@ tags:
 - Size: 50 cm
 - (fits like 52-54cm road frame)
 - Easton EC90X full carbon CX fork
-
 
 ## Components
 

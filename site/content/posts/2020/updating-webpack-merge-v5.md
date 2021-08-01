@@ -1,10 +1,10 @@
 ---
-title: "Updating webpack-merge to Version 5"
+title: "Updating webpack-merge to version 5"
 date: 2020-07-06T21:27:07-05:00
 draft: false
 aliases:
   - "/posts/2020-07-webpack-merge-v5/"
-tags: 
+tags:
   - webpack
 ---
 

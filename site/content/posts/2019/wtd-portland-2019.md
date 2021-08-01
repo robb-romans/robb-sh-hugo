@@ -1,5 +1,5 @@
 ---
-title: "Highlights from the 2019 Write the Docs Conference in Portland"
+title: "Highlights from the 2019 Write the Docs conference in Portland"
 date: 2019-07-02T10:56:59-05:00
 draft: false
 featuredImg: "/images/posts/2019/07/wtd-1.jpg"
@@ -58,7 +58,6 @@ Mike Jang
 {{< youtube YfM220sNVp8 >}}
 
 <br/><br/>
-
 
 ### [Documenting for open source software](https://www.writethedocs.org/videos/portland/2019/documenting-for-open-source-shannon-crabill/)
 
@@ -266,7 +265,7 @@ Process was:
 
 Defiance
 
-> The process is not the thing. It's always worth asking, do we own the process or does the process own us?  --Jeff Bezos
+> The process is not the thing. It's always worth asking, do we own the process or does the process own us? --Jeff Bezos
 
 Now:
 
@@ -379,7 +378,7 @@ Build the business case
 - your friends have data that can help you
 - be helpful and practical (you don't have to know everything)
 - influence others - don't bulldoze
--  assemble your plan. draft. collaborate. present to friends. iterate.
+- assemble your plan. draft. collaborate. present to friends. iterate.
 
 Write the product plan - whole enchilada with details
 Financial Plan - get help

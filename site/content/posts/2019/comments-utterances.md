@@ -1,5 +1,5 @@
 ---
-title: "How To Add Blog Page Comments with Utteranc.es"
+title: "How to add blog page comments with Utteranc.es"
 date: 2019-04-29T19:13:11-05:00
 draft: false
 slug: "add-utterances-comments-to-hugo"
@@ -98,18 +98,18 @@ that comment and selecting `Delete`.
 
 ## Utterances limitations
 
-* Readers must have a GitHub account to comment. Utterances supports no other
+- Readers must have a GitHub account to comment. Utterances supports no other
   login or authentication mechanisms. Fortunately, it's easy to get a free
   account.
-* For storing comments, Utterances supports only GitHub. GitLab, BitBucket, and
+- For storing comments, Utterances supports only GitHub. GitLab, BitBucket, and
   so on are not supported. Since this site runs from GitLab, I created a
   separate repo in GitHub to hold the comments. Cats and dogs together.
-* Utterances [uses third-party
+- Utterances [uses third-party
   cookies](https://github.com/utterance/utterances/issues/123). If you run a
   privacy-focused browser or browser extensions, this can require whitelisting
   Utteranc.es servers to see the comments.
-  * `[*.]api.utteranc.es`
-  * `https://[*.]utteranc.es:443`
+  - `[*.]api.utteranc.es`
+  - `https://[*.]utteranc.es:443`
 
 ## Try it out
 
@@ -118,6 +118,6 @@ about this article.
 
 ## References
 
-* [https://github.com/utterance/utterances](https://github.com/utterance/utterances)
-* [https://gitlab.com/robb-romans/robb-sh-victor-hugo/issues/4](https://gitlab.com/robb-romans/robb-sh-victor-hugo/issues/4)
-* [https://github.com/robb-romans/robb-sh-comments/issues/1](https://github.com/robb-romans/robb-sh-comments/issues/1)
+- [https://github.com/utterance/utterances](https://github.com/utterance/utterances)
+- [https://gitlab.com/robb-romans/robb-sh-victor-hugo/issues/4](https://gitlab.com/robb-romans/robb-sh-victor-hugo/issues/4)
+- [https://github.com/robb-romans/robb-sh-comments/issues/1](https://github.com/robb-romans/robb-sh-comments/issues/1)
