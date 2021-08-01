@@ -1,5 +1,5 @@
 ---
-title: "Installing Antora on Ubuntu with the latest LTS Node without Sudo"
+title: "Installing Antora on Ubuntu with the latest LTS Node without sudo"
 date: 2020-02-05T11:59:39-06:00
 draft: false
 toc: false
@@ -7,7 +7,7 @@ featuredImg: "/images/posts/2020/02/pexels-photo-169573.jpeg"
 slug: "install-antora-node-ubuntu-nosudo"
 aliases:
   - "/posts/installing-antora-ubuntu-with-lts-node-without-sudo/"
-tags: 
+tags:
   - hugo
   - asciidoc
 ---
@@ -49,7 +49,7 @@ $ sudo apt autoremove
 # WARNING: never just pipe something from the internet into sudo.
 # Check the setup script carefully before you run the next command.
 #
-# Install LTS node 
+# Install LTS node
 $ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 
 # The big moment
@@ -138,4 +138,5 @@ $ antora version
 Enjoy.
 
 ---
+
 Photo credit: Negative Space from Pexels
