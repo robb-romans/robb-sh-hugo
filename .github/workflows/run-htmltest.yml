@@ -1,3 +1,4 @@
+# .github/workflows/run-htmltest.yml
 # (c) 2021 Robb Romans
 #
 name: run-htmltest
@@ -10,29 +11,32 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - name: Checkout repository
+      - name: checkout repository
         uses: actions/checkout@v2
         with:
           submodules: recursive # Fetch Hugo themes
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
-      - name: Set up Hugo
+      - name: set up Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
-      # - uses: actions/cache@v2
-      #   with:
-      #     path: /tmp/hugo_cache
-      #     key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
-      #     restore-keys: |
-      #       ${{ runner.os }}-hugomod-
-      - name: Build Hugo
-        run: hugo --verboseLog -s site -d dist
-      - name: Show directory
-        run: ls ./dist
-      - name: Test HTML
+      - uses: actions/cache@v2
+        with:
+          path: /tmp/hugo_cache
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
+      - name: build Hugo
+        # Make sure to put the build output where the following steps can find it
+        # GITHUB_WORKSPACE
+        run: hugo --verboseLog -s site -d $GITHUB_WORKSPACE/dist
+      - name: test HTML
+        # Don't fail the build on broken links
+        continue-on-error: true
         uses: wjdp/htmltest-action@master
         with:
           config: .htmltest.yml
+
       # - name: Install Node
       #   uses: actions/setup-node@v2
       #   with:
