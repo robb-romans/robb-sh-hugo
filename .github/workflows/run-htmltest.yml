@@ -1,0 +1,52 @@
+# (c) 2021 Robb Romans
+#
+name: run-htmltest
+description: Run htmltest on generated HTML output in ./dist/
+on: [push, pull_request]
+
+jobs:
+  htmltest:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive # Fetch Hugo themes
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+      - name: Install Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+          cache: "npm"
+      - name: Node build
+        run: |
+          npm ci
+          npm run build:preview
+      - name: Test HTML
+        uses: wjdp/htmltest-action@master
+        with:
+          config: .htmltest.yml
+      # - name: Set up cache
+      #   uses: actions/cache@v2
+      #   with:
+      #     path: |
+      #       ./.npm
+      #       ./dist/
+      #     key: ${{ runner.OS }}-npm-cache-${{ hashFiles('**/package-lock.json') }}
+      #     restore-keys: ${{ runner.OS }}-npm-cache-
+      # - name: Cache the config file
+      #   uses: actions/cache@v2
+      #   with:
+      #     path: ./.htmltest
+      #     key: ${{ runner.os }}-htmltest
+
+      # - name: Set up Hugo
+      #   uses: peaceiris/actions-hugo@v2
+      #   with:
+      #     hugo-version: "latest"
+      # - name: Build Hugo
+      #   run: hugo -s site -d ~/dist --minify
+      # - name: Show directory
+      #   run: ls ~/dist

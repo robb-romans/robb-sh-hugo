@@ -1,0 +1,8 @@
+DirectoryPath: "dist"
+# Hugo's directory structure triggers this:
+IgnoreDirectoryMissingTrailingSlash: true
+IgnoreURLs:
+  # Don't increment the page view count
+  - "https://gc.zgo.at/count.js"
+  # Don't check LinkedIn
+  - https://linkedin.com/in/robbromans/
