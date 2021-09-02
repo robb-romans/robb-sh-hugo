@@ -4,9 +4,9 @@
 # Run htmltest link checker on generated HTML output in dist/
 # https://github.com/wjdp/htmltest
 #
-# TODO: Add persistent artifact on test failure
+# TODO: Add caching
+# TODO: Add persistent artifact only on test failure
 # TODO: Add a bot to add artifact into pull requests
-# TODO: Revisit caching
 
 name: run-htmltest
 on: pull_request
@@ -16,21 +16,21 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - name: checkout repository
+      - name: Check out repository
         uses: actions/checkout@v2
         with:
           submodules: recursive # Fetch Hugo themes
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
-      - name: set up Hugo
+      - name: Set up Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
       # TODO: Add cache step here
-      - name: build Hugo
+      - name: Build Hugo
         # Put the build output where the following steps can find it
         # GITHUB_WORKSPACE
         run: hugo -s site -d $GITHUB_WORKSPACE/dist
-      - name: test HTML
+      - name: Test HTML
         # https://github.com/wjdp/htmltest-action/
         # Don't fail the build on broken links
         continue-on-error: true
@@ -38,9 +38,9 @@ jobs:
         with:
           # For consistency, use the same config file as for local builds
           config: .htmltest.yml
-      - name: archive htmltest results
+      - name: Archive htmltest results
         uses: actions/upload-artifact@v2
-        # Note: Set ACTIONS_RUNTIME_TOKEN env variable to use with nektos/act
+        # Note: Set ACTIONS_RUNTIME_TOKEN env variable to test with nektos/act
         with:
           name: htmltest-report
           path: tmp/.htmltest/htmltest.log
