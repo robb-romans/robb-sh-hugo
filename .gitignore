@@ -14,3 +14,4 @@ tmp/
 .DS_Store?
 .Spotlight-V100
 .Trashes
+site/.hugo_build.lock
