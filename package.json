@@ -20,7 +20,7 @@
     "build:hugo:preview": "npm run build:hugo -- --buildDrafts --buildFuture"
   },
   "devDependencies": {
-    "hugo-bin": "^0.82.2",
+    "hugo-bin": "^0.83.1",
     "rimraf": "^3.0.2"
   }
 }
