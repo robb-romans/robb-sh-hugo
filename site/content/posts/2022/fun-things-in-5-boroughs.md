@@ -129,8 +129,8 @@ Vibe: gentrified hipsters. Bedford Ave is a fun little street you can walk and s
   incroyable)
 * [Win Son Bakery](https://goo.gl/maps/Mh1cChEWo6UnN3kC9) (must-try; get a fan-tuan)
 * [Brooklyn Ball Factory](https://goo.gl/maps/1Z6h9m6Evp2v2cTv6) (must-try, get an iced matcha
-  latte. What I’d usually do is get some pastries from Win Son and a matcha from BBF and go eat at
-  the park around there)
+  latte. Get some pastries from Win Son and a matcha from BBF and go eat at
+  the park.)
 
 #### [Bushwick](https://www.nycgo.com/boroughs-neighborhoods/brooklyn/bushwick)
 
@@ -247,7 +247,7 @@ beach.
   * [Sherry Blossom](https://sherryblossom.net/)
 * [Sandy Hook Beach](https://visitnj.org/city/sandy-hook), NJ via [Seastreak Ferry](https://seastreak.com/)
 
-## Other random recommendations received for your consideration
+## Other random recommendations for your consideration
 
 * Take in a concert at one of Brooklyn's many music venues
 * (Bronx) [The Edgar Allen Poe Cottage](http://www.bronxhistoricalsociety.org/poecottage.html)
