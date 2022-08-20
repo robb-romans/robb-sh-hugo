@@ -11,7 +11,7 @@ tags:
 
 *The [robb.sh](https://robb.sh/) massive list of things to explore in the [five
 boroughs](https://en.wikipedia.org/wiki/Boroughs_of_New_York_City) of New York City (with a lot of
-help from my friends.)*
+help from my friends)*
 
 ## Food
 
@@ -19,22 +19,20 @@ Start with a full stomach.
 
 ### [Manhattan](https://www.nycgo.com/boroughs-neighborhoods/manhattan)
 
-Vibe: lead, follow, or get out of the way.
+Vibe: lead, follow, or get out of the way!
 
 #### [SoHo](https://www.nycgo.com/boroughs-neighborhoods/manhattan/soho)
 
-* [Balthazar Restaurant for breakfast or brunch](https://balthazarny.com) $$$
-  [https://www.yelp.com/menu/balthazar-new-york-2](https://www.yelp.com/menu/balthazar-new-york-2)
+* [Balthazar](https://www.yelp.com/menu/balthazar-new-york-2) (brunch)
 
 #### [West Village](https://www.nycgo.com/boroughs-neighborhoods/manhattan/west-village)
 
-* [Boucherie](https://www.yelp.com/biz/boucherie-west-village-new-york-3?osq=boucherie) (French
-  Steakhouse)
+* [Boucherie](https://www.yelp.com/biz/boucherie-west-village-new-york-3?osq=boucherie) (French steakhouse)
 
 #### [Greenwich Village](https://www.nycgo.com/boroughs-neighborhoods/manhattan/greenwich-village)
 
-* [Cafe Wha?](http://cafewha.com/)- Music venue + bar food. High energy, birthed in counter-culture
-  and featured in the Adam West Batman movie.
+* [Cafe Wha?](http://cafewha.com/) - Music venue + bar food. High energy, birthed in
+  counter-culture, featured in the Adam West Batman movie
 
 #### [NoHo](https://www.nycgo.com/boroughs-neighborhoods/manhattan/noho)
 
@@ -55,12 +53,12 @@ Vibe: lead, follow, or get out of the way.
 * [Tatsu Ramen](https://www.yelp.com/biz_photos/tatsu-ramen-new-york)
 * [Thursday Kitchen](https://www.yelp.com/biz/thursday-kitchen-new-york) (Korean)
 * [Supper](https://goo.gl/maps/Vm4TgueWidjNAVR27) (Northern Italian)
-* [Tuome](https://www.yelp.com/biz/tuome-new-york-2?osq=Tuome) (American/Asian fusion)
+* [Tuome](https://www.yelp.com/biz/tuome-new-york-2?osq=Tuome) (American / Asian fusion)
 * [Soothr](https://www.yelp.com/biz/soothr-new-york-2) (Thai)
-* [Foxface](https://www.yelp.com/biz/foxface-new-york?osq=Fox+Head+restaurant) (Specialty Sandwiches)
+* [Foxface](https://www.yelp.com/biz/foxface-new-york?osq=Fox+Head+restaurant) (Specialty sandwiches)
 * [Miss Lily’s 7A
   Cafe](https://www.yelp.com/biz/miss-lilys-7a-cafe-new-york-3?osq=Miss+Lily%27s+Caribbean+Food)
-  (Caribbean Food)  
+  (Caribbean)  
 * [Venieros](https://www.yelp.com/biz/venieros-new-york-2) (Massive pâtisserie)
 * [Tompkins Square Bagels](http://www.tompkinssquarebagels.com/about.html)
 
@@ -76,15 +74,15 @@ Vibe: lead, follow, or get out of the way.
 
 Vibe: bougie
 
-* [Cyclo](https://www.yelp.com/biz/cyclo-long-island-city):
-  [https://goo.gl/maps/toM1P2DqSRPXjwJE8](https://goo.gl/maps/toM1P2DqSRPXjwJE8)
+* [Cyclo](https://www.yelp.com/biz/cyclo-long-island-city)
+  [(map)](https://goo.gl/maps/toM1P2DqSRPXjwJE8)
 * [Sweetleaf](https://g.page/SweetleafCocktailBar?share)
-* [Jackson’s Eatery](https://www.yelp.com/biz/jacksons-eatery-bar-long-island-city-2):
-  [https://goo.gl/maps/MMF16oeV7HzVVRba9](https://goo.gl/maps/MMF16oeV7HzVVRba9)
+* [Jackson’s Eatery](https://www.yelp.com/biz/jacksons-eatery-bar-long-island-city-2)
+  [(map)](https://goo.gl/maps/MMF16oeV7HzVVRba9)
 * [Casa Enrique (tacos & cocktails)](https://casaenriquelic.com/)
 * [Fifth Hammer Brewery](https://www.fifthhammerbrewing.com/)
 * [Iconyc Brewery](https://www.iconycbrewing.com/)
-* [Maiella](https://www.maiellalic.com/) $$$
+* [Maiella](https://www.maiellalic.com/)
 
 #### [Astoria](https://en.wikipedia.org/wiki/Astoria,_Queens)
 
@@ -247,7 +245,7 @@ beach.
   * [Sherry Blossom](https://sherryblossom.net/)
 * [Sandy Hook Beach](https://visitnj.org/city/sandy-hook), NJ via [Seastreak Ferry](https://seastreak.com/)
 
-## Other random recommendations for your consideration
+## Other random things for your consideration
 
 * Take in a concert at one of Brooklyn's many music venues
 * (Bronx) [The Edgar Allen Poe Cottage](http://www.bronxhistoricalsociety.org/poecottage.html)
