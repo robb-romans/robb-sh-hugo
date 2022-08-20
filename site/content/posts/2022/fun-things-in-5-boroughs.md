@@ -1,5 +1,5 @@
 ---
-title: "Fun things to do in the five boroughs"
+title: "Fun things to do in the five boroughs of NY, NY"
 date: 2022-08-20T15:13:31-04:00
 draft: false
 slug: "fun-in-five-boroughs"
@@ -9,10 +9,9 @@ tags:
   - nyc
 ---
 
-Fun things to do in the [five boroughs](https://en.wikipedia.org/wiki/Boroughs_of_New_York_City) of NY, NY.
-
-*The [robb.sh](https://robb.sh/) massive list of things to explore in New York City (with a lot of
-help from my friends.)*
+*The [robb.sh](https://robb.sh/) massive list of things to explore in the [five
+boroughs](https://en.wikipedia.org/wiki/Boroughs_of_New_York_City) of New York City (with a lot of help
+from my friends.)*
 
 ## Sights, parks
 
@@ -21,7 +20,7 @@ Contains a few typical tourist things in Manhattan, but you should see them once
 ### [Manhattan](https://www.nycgo.com/boroughs-neighborhoods/manhattan)
 
 * [Staten Island Ferry](https://www1.nyc.gov/html/dot/html/ferrybus/staten-island-ferry.shtml)
-  [https://www.siferry.com/schedules.html](https://www.siferry.com/schedules.html)
+  * [Check the schedule](https://www.siferry.com/schedules.html)
   * Peek Ellis Island/Statue of Liberty en route
   * Step off on Staten Island, done, get back on the boat to Manhattan
 * [Central Park](https://www.centralparknyc.org/)
@@ -211,7 +210,7 @@ Vibe: cute. Smith Street and Court Street are two little streets where you can w
 
 #### [Upper West Side](https://www.nycgo.com/boroughs-neighborhoods/manhattan/upper-west-side)
 
-* [Virgil’s](https://www.virgilsbbq.com/) (also Times Square)
+* [Virgil’s](https://www.virgilsbbq.com/) (also in Times Square)
 * [Dinosaur BBQ](https://www.yelp.com/biz/dinosaur-bar-b-que-new-york-4)
 
 #### [East Village](https://www.nycgo.com/boroughs-neighborhoods/manhattan/east-village)
@@ -225,7 +224,7 @@ Vibe: cute. Smith Street and Court Street are two little streets where you can w
 * [Miss Lily’s 7A
   Cafe](https://www.yelp.com/biz/miss-lilys-7a-cafe-new-york-3?osq=Miss+Lily%27s+Caribbean+Food)
   (Caribbean Food)  
-* [Venieros](https://www.yelp.com/biz/venieros-new-york-2) (Massive Pâtisserie)
+* [Venieros](https://www.yelp.com/biz/venieros-new-york-2) (Massive pâtisserie)
 * [Tompkins Square Bagels](http://www.tompkinssquarebagels.com/about.html)
 
 #### [Lower East Side](https://www.nycgo.com/boroughs-neighborhoods/manhattan/lower-east-side)
@@ -240,9 +239,6 @@ Vibe: cute. Smith Street and Court Street are two little streets where you can w
 * [Strand Bookstore](https://www.strandbooks.com/hours-locations) 12th & Broadway
 * [Uniqlo](https://www.uniqlo.com/us/en/) SoHo
 * [Muji](https://www.muji.us/) SoHo
-* [R.M. Williams shoes](https://www.rmwilliams.com/) SoHo
-* [ID Menswear,
-  Brooklyn](https://maps.apple.com/?address=232%20Bedford%20Ave,%20Brooklyn,%20NY%20%2011249,%20United%20States&auid=7738558605695436998&ll=40.716391,-73.959478&lsp=9902&q=ID%20Menswear&_ext=CjMKBQgEEOIBCgQIBRADCgUIBhDAAgoECAoQAAoECFIQAQoECFUQEAoECFkQBQoFCKQBEAESJinP+BljHVtEQDEAxC+oyX1SwDlNzj+/Q1xEQEFmX5Z5B31SwFAE)
 
 ## Other random recommendations received
 
@@ -266,5 +262,5 @@ Vibe: cute. Smith Street and Court Street are two little streets where you can w
 * Ghostbusters movie set, the Firehouse 14 N Moore St., New York, NY 10013
 * [Goldstar events finder](https://www.goldstar.com/new-york)
 * Show tickets:
-* [https://www.telecharge.com/](https://www.telecharge.com/)
-* [https://www.tdf.org/nyc/81/tkts-live?loc=tisq](https://www.tdf.org/nyc/81/tkts-live?loc=tisq)
+  * [https://www.telecharge.com/](https://www.telecharge.com/)
+  * [https://www.tdf.org/nyc/81/tkts-live?loc=tisq](https://www.tdf.org/nyc/81/tkts-live?loc=tisq)
