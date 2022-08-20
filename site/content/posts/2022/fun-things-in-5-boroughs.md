@@ -72,7 +72,7 @@ Vibe: lead, follow, or get out of the way!
 
 #### [Long Island City](https://www.nycgo.com/boroughs-neighborhoods/queens/long-island-city)
 
-Vibe: bougie
+Vibe: bougie.
 
 * [Cyclo](https://www.yelp.com/biz/cyclo-long-island-city)
   [(map)](https://goo.gl/maps/toM1P2DqSRPXjwJE8)
@@ -86,6 +86,8 @@ Vibe: bougie
 
 #### [Astoria](https://en.wikipedia.org/wiki/Astoria,_Queens)
 
+Vibe: gentrified, but not ruined.
+
 * [Aliada](https://g.page/aliada-astoria?share) (Greek)
 * [District Saigon](https://goo.gl/maps/wnz9BET3SmLQoota7) (Vietnamese)
 * [Gossip Coffee & Café](https://goo.gl/maps/BJ1y9okkSjsNKbcz9)
@@ -96,6 +98,8 @@ Vibe: bougie
 
 #### [Flushing](https://en.wikipedia.org/wiki/Flushing,_Queens)
 
+Vibe: 百度一下，你就知道
+
 * [Haidilao](https://goo.gl/maps/gFcUCD9Qg84xH8cTA) (hotpot)
 * [520 Desert Bar](https://goo.gl/maps/MHtP13vrUdubHikA6)
 * [Spring Shabu-shabu](https://goo.gl/maps/vFKwpuvfChG4KVXLA)
@@ -105,7 +109,7 @@ Vibe: bougie
 
 #### [Greenpoint](https://www.nycgo.com/boroughs-neighborhoods/brooklyn/greenpoint)
 
-Vibe: hip, but getting gentrified
+Vibe: hip, but getting gentrified.
 
 * [Peter Pan Donut](https://g.page/Peterpandonut?share)
 * [Di An Di](https://goo.gl/maps/E7UaZxtbwHP8dhZH6)
@@ -142,7 +146,7 @@ Vibe: where the real hipsters are.
 
 #### [Clinton Hill](https://www.nycgo.com/boroughs-neighborhoods/brooklyn/clinton-hill)
 
-Vibe: old Brooklyn, tons of brownstones, great restaurants
+Vibe: old Brooklyn, tons of brownstones, great restaurants.
 
 * [Pilar Cuban Eatery](https://g.page/pilarcuban?share)
 * [Imani](https://g.page/Imani_BK?share)
@@ -150,7 +154,7 @@ Vibe: old Brooklyn, tons of brownstones, great restaurants
 
 #### [Brooklyn Heights](https://en.wikipedia.org/wiki/Brooklyn_Heights)
 
-Vibe: old money, million-dollar townhouses, even bougier than LIC
+Vibe: old money, million-dollar townhouses, even bougier than LIC.
 
 * [Brooklyn Farmacy & Soda Fountain](https://g.page/brooklynfarmacy?share)
 * [Time Out Market](https://goo.gl/maps/xkbxL79wJWRD7gPD9)
