@@ -3,6 +3,7 @@ title: "Fun things to do in the five boroughs of NY, NY"
 date: 2022-08-20T15:13:31-04:00
 draft: false
 slug: "fun-in-five-boroughs"
+featuredImg: "New_York_City_Boroughs.png"
 aliases:
   - "/posts/fun-in-five-boroughs"
 tags:
@@ -13,13 +14,15 @@ tags:
 boroughs](https://en.wikipedia.org/wiki/Boroughs_of_New_York_City) of New York City (with a lot of
 help from my friends)*
 
+![map of the five boroughs](./New_York_City_Boroughs.png)
+
 ## Food
 
 Start with a full stomach.
 
 ### [Manhattan](https://www.nycgo.com/boroughs-neighborhoods/manhattan)
 
-Vibe: lead, follow, or get out of the way!
+Vibe: lead, follow, or get out of the way
 
 #### [SoHo](https://www.nycgo.com/boroughs-neighborhoods/manhattan/soho)
 
@@ -86,6 +89,8 @@ Vibe: bougie
 
 #### [Astoria](https://en.wikipedia.org/wiki/Astoria,_Queens)
 
+Vibe: gentrified, but not ruined
+
 * [Aliada](https://g.page/aliada-astoria?share) (Greek)
 * [District Saigon](https://goo.gl/maps/wnz9BET3SmLQoota7) (Vietnamese)
 * [Gossip Coffee & Café](https://goo.gl/maps/BJ1y9okkSjsNKbcz9)
@@ -95,6 +100,8 @@ Vibe: bougie
 * [Sugar Freak](https://goo.gl/maps/hqecUofti79eP1HG7) (Creole)
 
 #### [Flushing](https://en.wikipedia.org/wiki/Flushing,_Queens)
+
+Vibe: 百度一下，你就知道
 
 * [Haidilao](https://goo.gl/maps/gFcUCD9Qg84xH8cTA) (hotpot)
 * [520 Desert Bar](https://goo.gl/maps/MHtP13vrUdubHikA6)
@@ -132,7 +139,7 @@ Vibe: gentrified hipsters. Bedford Ave is a fun little street you can walk and s
 
 #### [Bushwick](https://www.nycgo.com/boroughs-neighborhoods/brooklyn/bushwick)
 
-Vibe: where the real hipsters are.
+Vibe: where the real hipsters are
 
 * [Heavy Woods](https://goo.gl/maps/VhqZUut6HqdChjrn6)
 * [Sally Roots](https://goo.gl/maps/bYHcmHqPgeyb98Q6A)
@@ -269,3 +276,5 @@ beach.
 * Show tickets:
   * [https://www.telecharge.com/](https://www.telecharge.com/)
   * [https://www.tdf.org/nyc/81/tkts-live?loc=tisq](https://www.tdf.org/nyc/81/tkts-live?loc=tisq)
+
+###### [Image credit: pods.com](<https://www.pods.com/blog/2019/03/nyc-moving-guide-the-new-york-city-boroughs-explained/>)
