@@ -5,7 +5,7 @@
 [![Accessibility](https://img.shields.io/badge/accessibility-passing-success?style=flat&logo=html5&logoColor=white)](https://wave.webaim.org/report#/https://robb.sh/)
 [![PageSpeed](https://img.shields.io/badge/PageSpeed-98%20%2F%20100-success?style=flat&logo=google&logoColor=white)](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Frobb.sh%2F&tab=desktop)
 [![Twitter](https://img.shields.io/twitter/follow/RobbRomans.svg?style=social")](https://twitter.com/robbromans)
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/robb-romans/robb-sh-hugo)
+[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/robb-romans/robb-sh-hugo)
 
 ## This code publishes the personal website of Robb Romans at <https://robb.sh/>
 
