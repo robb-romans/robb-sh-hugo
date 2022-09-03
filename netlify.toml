@@ -3,4 +3,4 @@
   publish = "dist"
 
 [context.deploy-preview]
-  command = "npm run build:preview --baseURL $DEPLOY_PRIME_URL"
+  command = "npm run build:preview -- --baseURL $DEPLOY_PRIME_URL"
