@@ -20,7 +20,7 @@
     "build:hugo:preview": "npm run build:hugo -- --buildDrafts --buildFuture"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.8",
+    "autoprefixer": "^10.4.9",
     "hugo-extended": "^0.102.3",
     "npm-run-all": "^4.1.5",
     "postcss": "^8.4.16",
