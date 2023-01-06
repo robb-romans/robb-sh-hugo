@@ -25,6 +25,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
+          extended: true
       # TODO: Add cache step here
       - name: Build Hugo
         # Put the build output where the following steps can find it
