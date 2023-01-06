@@ -18,6 +18,7 @@
 - [Hugo](https://gohugo.io/) static site generator
 - [Hermit](https://github.com/Track3/hermit) smooth and clean Hugo theme
 - [GoatCounter](https://www.goatcounter.com/) open source web analytics platform
+- [utteranc.es](https://utteranc.es/) lightweight comments widget
 
 ## File structure
 
