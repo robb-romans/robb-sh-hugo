@@ -7,3 +7,4 @@ command = "npm run build:preview"
 
 [build.environment]
 GO_VERSION = "1.23.2"
+HUGO_VERSION = "0.135.0"
