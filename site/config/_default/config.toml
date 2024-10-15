@@ -1,77 +1,27 @@
-baseURL = "/"
-languageCode = "en-us"
-defaultContentLanguage = "en"
-title = "./robb.sh"
-theme = "hermit"
-pygmentsCodeFences  = true
-pygmentsStyle = "solarized-dark"
-rssLimit = 10
-# This copyright message is only used by the RSS template.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
-enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
-                    # https://www.webfx.com/tools/emoji-cheat-sheet/
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/getting-started/
 
-[author]
-  name = "Robb Romans"
+# baseURL = "https://your_domain.com/"
+baseURL = "https://robb.sh"
+defaultContentLanguage = "en"
+description = "./robb.sh"
+Copyright = "© 2024 Robb Romans · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+
+enableRobotsTXT = true
+pagination.pagerSize = 10
+summaryLength = 0
+ignoreFiles = ["^/_vendor/"]
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
 
 [permalinks]
-  posts = "/posts/:slug/"
+posts = "/posts/:slug/"
 
 [taxonomies]
-  tag = "tags"
-  # Categories are disabled by default.
+tag = "tags"
+# Categories are disabled by default.
 
-[params]
-  dateform        = "2 Jan, 2006"
-  dateformShort   = "2 Jan"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
-
-  # Metadata mostly used in document's head
-  description = "./robb.sh"
-  # images = [""]
-  themeColor = "#494f5c"
-
-  # homeSubtitle = "pound bang bin bash robb"
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>'
-  # bgImg = ""  # Homepage background-image URL
-
-  # enableGitInfo = true
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = "https://github.com/username/repository/commit/"
-
-  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
-  justifyContent = false  # Set "text-align: justify" to `.content`.
-
-  # Add custom css
-  # customCSS = ["css/foo.css", "css/bar.css"]
-
-  # Social Icons
-  # Check https://github.com/Track3/hermit#social-icons for more info.
-  [[params.social]]
-    name = "linkedin"
-    url = "https://linkedin.com/in/robbromans/"
-
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/robb-romans"
-
-  [[params.social]]
-    name = "gitlab"
-    url = "https://gitlab.com/robb-romans"
-    
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/robbromans"
-#endparams
-
-[menu]
-  [[menu.main]]
-    name = "posts"
-    url = "posts/"
-    weight = 10
-
-  [[menu.main]]
-    name = "code"
-    url = "/about-site"
-    weight = 20
+# images = [""]
+# themeColor = "#494f5c"
