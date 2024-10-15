@@ -1,6 +1,9 @@
 [build]
-  command = "npm run build"
-  publish = "dist"
+command = "npm run build"
+publish = "dist"
 
 [context.deploy-preview]
-  command = "npm run build:preview"
+command = "npm run build:preview"
+
+[build.environment]
+GO_VERSION = "1.23"
