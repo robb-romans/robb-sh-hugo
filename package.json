@@ -10,21 +10,21 @@
   "license": "MIT",
   "scripts": {
     "start": "npm run start:hugo",
-    "start:hugo": "hugo -d ../dist -s site --verbose --buildDrafts --buildFuture server",
+    "start:hugo": "hugo -d ../dist -s site --logLevel info --buildDrafts --buildFuture server",
     "preview": "npm run preview:hugo",
     "preview:hugo": "npm run start:hugo -- --buildDrafts --buildFuture server",
     "prebuild": "rimraf dist",
     "build": "npm run build:hugo",
     "build:preview": "npm run build:hugo:preview",
-    "build:hugo": "hugo version && hugo -d ../dist -s site -v",
+    "build:hugo": "hugo version && hugo -d ../dist -s site --logLevel info",
     "build:hugo:preview": "npm run build:hugo -- --buildDrafts --buildFuture"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.14",
-    "hugo-extended": "^0.111.3",
+    "autoprefixer": "^10.4.20",
+    "hugo-extended": "^0.135.0",
     "npm-run-all": "^4.1.5",
-    "postcss": "^8.4.23",
-    "postcss-cli": "^10.1.0",
-    "rimraf": "^5.0.1"
+    "postcss": "^8.4.47",
+    "postcss-cli": "^11.0.0",
+    "rimraf": "^6.0.1"
   }
 }

@@ -1,5 +1,8 @@
 node_modules/
 dist/
+public/
+site/.hugo_build.lock
+site/_vendor/
 site/data/webpack.json
 site/resources/_gen
 tmp/
@@ -14,4 +17,3 @@ tmp/
 .DS_Store?
 .Spotlight-V100
 .Trashes
-site/.hugo_build.lock

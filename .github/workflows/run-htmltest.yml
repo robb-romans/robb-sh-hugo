@@ -17,12 +17,12 @@ jobs:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: recursive # Fetch Hugo themes
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
       - name: Set up Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: "latest"
           extended: true
@@ -40,7 +40,7 @@ jobs:
           # For consistency, use the same config file as for local builds
           config: .htmltest.yml
       - name: Archive htmltest results
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         # Note: Set ACTIONS_RUNTIME_TOKEN env variable to test with nektos/act
         with:
           name: htmltest-report

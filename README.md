@@ -16,7 +16,7 @@
 - [LetsEncrypt](https://letsencrypt.org/) certificate authority
 - [Victor Hugo](https://github.com/netlify-templates/victor-hugo/) OG deployment template
 - [Hugo](https://gohugo.io/) static site generator
-- [Hermit](https://github.com/Track3/hermit) smooth and clean Hugo theme
+- [Congo](https://jpanther.github.io/congo/) A powerful, lightweight theme for Hugo built with Tailwind CSS
 - [GoatCounter](https://www.goatcounter.com/) open source web analytics platform
 - [utteranc.es](https://utteranc.es/) lightweight comments widget
 
