@@ -6,4 +6,4 @@ publish = "dist"
 command = "npm run build:preview"
 
 [build.environment]
-GO_VERSION = "1.23"
+GO_VERSION = "1.23.2"
