@@ -6,7 +6,7 @@ weight = 1
 title = "./robb.sh"
 # mainSections = ["section1", "section2"]
 
-  [params]
+[params]
 dateFormat = "2 Jan, 2006"
 dateformShort = "2 Jan"
 dateformNum = "2006-01-02"
@@ -21,7 +21,7 @@ links = [
   { github = "https://github.com/robb-romans" },
   { gitlab = "https://gitlab.com/robb-romans" },
   { instagram = "https://www.instagram.com/robb.romans/" },
-  { x-twitter = "https://twitter.com/robbromans" },
+  { x-twitter = "https://x.com/robbromans" },
 ]
 # image = "img/author.jpg"
 # headline = "I'm only human"

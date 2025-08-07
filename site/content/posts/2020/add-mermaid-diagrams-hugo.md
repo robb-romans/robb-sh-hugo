@@ -71,4 +71,4 @@ title French Words I Know
 "Non" : 5
 {{</mermaid>}}
 
-{{< tweet user="robbromans" id="1341895378938032130" >}}
+{{< x user="robbromans" id="1341895378938032130" >}}

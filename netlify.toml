@@ -2,9 +2,15 @@
 command = "npm run build"
 publish = "dist"
 
+
+[build.environment]
+NODE_VERSION = "22.18.0"
+GO_VERSION = "1.24.6"
+HUGO_VERSION = "0.148.2"
+MISE_QUIET = "1"
+
 [context.deploy-preview]
 command = "npm run build:preview"
 
-[build.environment]
-GO_VERSION = "1.23.2"
-HUGO_VERSION = "0.135.0"
+[context.production.environment]
+HUGO_ENV = "production"

@@ -1,23 +1,17 @@
-# -- Theme Options --
-# These options control how the theme functions and allow you to
-# customise the display of your website.
-#
-# Refer to the theme docs for more details about each of these parameters.
-# https://jpanther.github.io/congo/docs/configuration/#theme-parameters
-
-colorScheme = "congo"
-defaultAppearance = "dark"  # valid options: light or dark
+colorScheme = "avocado"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
-
-#defaultThemeColor = "#FFFFFF"
-defaultThemeColor = "#494f5c" # Hermit
-
-enableSearch = false
+#defaultThemeColor = "#494f5c" # Hermit
+enableSearch = true
 enableCodeCopy = true
 enableImageLazyLoading = true
 enableImageWebp = true
 
-# robots = ""
+robots = '''
+User-agent: *
+Allow: /
+Sitemap: https://robb.sh/sitemap.xml
+'''
 fingerprintAlgorithm = "sha256"
 
 [header]
@@ -38,21 +32,23 @@ showRecent = true
 recentLimit = 5
 
 [article]
+[author]
+name = "Robb Romans"
 showDate = true
 showDateUpdated = false
 showAuthor = false
 showBreadcrumbs = false
 showDraftLabel = true
-showEdit = false
-# editURL = "https://github.com/username/repo/"
+showEdit = true
+editURL = "https://github.com/robb-romans/robb-sh-hugo/"
 editAppendPath = true
 showHeadingAnchors = true
 showPagination = true
 invertPagination = false
-showReadingTime = false
+showReadingTime = true
 showTableOfContents = false
 showTaxonomies = false
-showWordCount = false
+showWordCount = true
 showComments = true
 # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo"]
 
@@ -69,21 +65,3 @@ excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
 showTermCount = true
-
-[fathomAnalytics]
-# site = "ABC12345"
-
-[plausibleAnalytics]
-# domain = "blog.yoursite.com"
-# event = ""
-# script = ""
-
-#[umamiAnalytics]
-#  site = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-#  region = "eu"  # can be either "eu" or "us"
-
-[verification]
-# google = ""
-# bing = ""
-# pinterest = ""
-# yandex = ""
