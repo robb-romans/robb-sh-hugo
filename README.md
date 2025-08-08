@@ -23,6 +23,8 @@
 ## File structure
 
 ```text
+|--dist                // Markdown --> HTML site
+|--scripts             // Utility scripts
 |--site                // Hugo builds this folder
 |  |--archetypes       // Defaults for types of new content
 |  |--content          // Pages and collections
@@ -32,7 +34,20 @@
 |  |  |--index.html    // The index page
 |  |--resources        // Generated assets
 |  |--static           // Files here end up in the site/public folder (?)
-|  |--themes           // Add themes here as Git submodules
+|  |--_vendor          // Themes get added as Hugo modules. You can run `hugo mod vendor` to make 
+                       // their source code available here.
 ```
 
 For more information, see [Hugo's Directory Structure Explained](https://www.jakewiesler.com/blog/hugo-directory-structure/).
+
+## Updating package versions
+
+The Git pre-commit hook calls an idempotent Go binary that updates `netlify.toml` variables to match
+the current `mise` versions of Node, Go, and Hugo as defined in `.tool-versions`. If `netlify.toml`
+changed, the hook stages the file for commit.
+
+You can test the Go package version updater code with:
+`go test -v scripts/set-env-from-tool-versions.go scripts/set-env-from-tool-versions_test.go`
+
+To rebuild the binary:
+`go build -o scripts/sync-tool-versions scripts/set-env-from-tool-versions.go`

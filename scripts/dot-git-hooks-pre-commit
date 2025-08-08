@@ -1,0 +1,18 @@
+#!/bin/bash
+# filepath: .git/hooks/pre-commit
+set -e
+
+echo "🔄 Syncing .tool-versions to netlify.toml..."
+
+# Build and run the binary
+scripts/sync-tool-versions
+
+# Stage the updated netlify.toml if it was modified
+if git diff --exit-code netlify.toml > /dev/null; then
+    echo "✅ netlify.toml is already up to date"
+else
+    echo "📝 Staging updated netlify.toml"
+    git add netlify.toml
+fi
+
+echo "✅ Pre-commit hook completed successfully"
