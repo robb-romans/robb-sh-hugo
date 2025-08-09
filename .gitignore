@@ -5,6 +5,7 @@ site/.hugo_build.lock
 site/_vendor/
 site/data/webpack.json
 site/resources/_gen
+site/vendor/
 tmp/
 # Editors
 *~
