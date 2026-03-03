@@ -6,7 +6,6 @@ baseURL = "https://robb.sh"
 defaultContentLanguage = "en"
 description = "./robb.sh"
 Copyright = "© 2025 Robb Romans · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-
 enableRobotsTXT = true
 pagination.pagerSize = 10
 summaryLength = 0
