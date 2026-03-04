@@ -32,25 +32,23 @@ showRecent = true
 recentLimit = 5
 
 [article]
-[author]
-name = "Robb Romans"
-showDate = true
-showDateUpdated = false
-showAuthor = false
-showBreadcrumbs = false
-showDraftLabel = true
-showEdit = true
-editURL = "https://github.com/robb-romans/robb-sh-hugo/"
-editAppendPath = true
-showHeadingAnchors = true
-showPagination = true
-invertPagination = false
-showReadingTime = true
-showTableOfContents = false
-showTaxonomies = false
-showWordCount = true
-showComments = true
-# sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo"]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = false
+  showBreadcrumbs = false
+  showDraftLabel = true
+  showEdit = true
+  editURL = "https://github.com/robb-romans/robb-sh-hugo/"
+  editAppendPath = true
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = false
+  showTaxonomies = false
+  showWordCount = true
+  showComments = true
+  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo"]
 
 [list]
 showBreadcrumbs = false
