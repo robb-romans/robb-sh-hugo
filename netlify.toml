@@ -6,7 +6,7 @@ publish = "dist"
 [build.environment]
 NODE_VERSION = "25.7.0"
 GO_VERSION = "1.26.0"
-HUGO_VERSION = "0.155.3"
+HUGO_VERSION = "0.157.0"
 MISE_QUIET = "1"
 
 [context.deploy-preview]
