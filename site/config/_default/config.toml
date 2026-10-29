@@ -31,3 +31,7 @@ privacyEnhanced = true
 [services]
 [services.x]
 disableInlineCSS = true
+
+# Hugo v0.160+ denies Org mode content by default; allow it for legacy posts
+[security]
+  allowContent = ['! ^text/html$']
