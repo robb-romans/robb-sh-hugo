@@ -1,6 +1,6 @@
-languageCode = "en-us"
-languageName = "English"
-languageDirection = "ltr"
+locale = "en-us"
+label = "English"
+direction = "ltr"
 weight = 1
 
 title = "./robb.sh"
